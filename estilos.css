@@ -1,0 +1,30 @@
+*{font-family: Verdana}
+
+h2 {
+    color: gray;
+}
+
+thead {
+    columns: 2;
+    background-color: gray;
+    margin: 0%;
+}
+
+table, th, td { 
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 0%;
+}
+
+th, td {
+    padding: 10px;
+}
+
+#TrExitoso {
+    background-color: gainsboro;
+}
+
+#GrandesExitos {
+    margin-bottom: 0%;
+    margin-left: 75px;
+}
